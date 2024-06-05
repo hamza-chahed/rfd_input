@@ -1,6 +1,1 @@
-<rdfs:resource>CNC</rdfs:resource>
-<rdfs:resource>NPE</rdfs:resource>
-
-<rdf:property>componentOf</rdf:property>
-
 (NPE, componentOf, CNC)
