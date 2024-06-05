@@ -2,3 +2,11 @@
 
 (NPE, componentOf, CNC, ref:)
 (ia-station, supports, yang:ieee802-ethernet-interface, ref:60802-6.4.9.2.1)
+(ia-station, supports, yang:ieee802-dot1ab-lldp, ref:60802-6.4.9.2.2)
+(ia-station, supports, yang:ieee1588-ptp, ref:60802-6.4.9.2.3.1)
+(ia-station, supports, yang:ieee802-dot1as-ptp, ref:60802-6.4.9.2.3.2)
+(ia-station, supports, yang:ieee802-dot1as-hs, ref:60802-6.4.9.2.3.3)
+(ia-station, supports, yang:ietf-keystore, ref:60802-6.4.9.2.4.1)
+(ia-station, supports, yang:ietf-netconf-acm, ref:60802-6.4.9.2.4.2)
+(ia-station, supports, yang:ietf-truststore, ref:60802-6.4.9.2.4.3)
+
