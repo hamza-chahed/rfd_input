@@ -1,1 +1,3 @@
 <rdf:property>componentOf</rdf:property>
+<rdf:property>supports</rdf:property>
+
