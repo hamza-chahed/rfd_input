@@ -1,2 +1,9 @@
-<rdfs:resource>CNC</rdfs:resource>
-<rdfs:resource>NPE</rdfs:resource>
+<rdfs:resource>cnc</rdfs:resource>
+<rdfs:resource>npe</rdfs:resource>
+<rdfs:resource>ia-station</rdfs:resource>
+
+<rdfs:resource>yang:ieee802-ethernet-interface</rdfs:resource>
+<rdfs:resource>yang:ieee802-dot1ab-lldp</rdfs:resource>
+yang:ieee1588-ptp
+yang:ieee802-dot1as-ptp
+ yang:ieee802-dot1as-hs
