@@ -1,7 +1,7 @@
-(BTCA, describedAs, "Best timeTransmitter Clock Algorithm and it replaces the BMCA")
-(TimeTransmitter, replaces, Master)
-(TTimeReceiver, replaces, Slave)
+(BTCA, describedAs, "Best timeTransmitter Clock Algorithm and it replaces the BMCA",ref:802.1asdr)
+(TimeTransmitter, replaces, Master,ref:802.1asdr)
+(TTimeReceiver, replaces, Slave,ref:802.1asdr)
 (CFM, describedAs, "an abbreviation of Connectivity Fault Management, it is described in ieee802.1Q-18, it comprises capabilities for detecting, verifying, and isolating
 connectivity failures in Virtual Bridged Networks")
-(ClockSource , describedAs, "external entity that provides time information to the TimeTrnasmitter")
-(ClockTarget , describedAs, "external entity that receives the time information from the TimeReceiver")
+(ClockSource , describedAs, "external entity that provides time information to the TimeTrnasmitter",ref:802.1asdr)
+(ClockTarget , describedAs, "external entity that receives the time information from the TimeReceiver",ref:802.1asdr)
