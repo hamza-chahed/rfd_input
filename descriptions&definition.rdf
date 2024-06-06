@@ -5,3 +5,4 @@
 connectivity failures in Virtual Bridged Networks")
 (ClockSource , describedAs, "external entity that provides time information to the TimeTrnasmitter",ref:802.1asdr)
 (ClockTarget , describedAs, "external entity that receives the time information from the TimeReceiver",ref:802.1asdr)
+( Configuration Domain, definedAs, "A set of stations that are under a common configuration and management scheme, and a single administration", ref:802.1Qdj)
