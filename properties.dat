@@ -1,4 +1,4 @@
-<rdf:property>componentOf</rdf:property>
+<rdf:property>contains</rdf:property>
 <rdf:property>supports</rdf:property>
 describedAs
 definedAs
