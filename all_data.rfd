@@ -1,6 +1,6 @@
 (subject, predict, object, comment/ref)
 
-(NPE, componentOf, CNC, ref:)
+(NPE, partOf, CNC, ref:60802)
 (ia-station, supports, yang:ieee802-ethernet-interface, ref:60802-6.4.9.2.1)
 (ia-station, supports, yang:ieee802-dot1ab-lldp, ref:60802-6.4.9.2.2)
 (ia-station, supports, yang:ieee1588-ptp, ref:60802-6.4.9.2.3.1)
@@ -10,3 +10,4 @@
 (ia-station, supports, yang:ietf-netconf-acm, ref:60802-6.4.9.2.4.2)
 (ia-station, supports, yang:ietf-truststore, ref:60802-6.4.9.2.4.3)
 
+()
