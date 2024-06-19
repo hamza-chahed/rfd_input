@@ -10,5 +10,5 @@
 (ia-station, supports, yang:ietf-netconf-acm, ref:60802-6.4.9.2.4.2)
 (ia-station, supports, yang:ietf-truststore, ref:60802-6.4.9.2.4.3)
 
-(mau, standsFor, Medium Attachment Units)
-(mau, describedAs, " A device that is used to connect a repeater or data terminal equipment (DTE) to a transmission medium", ref:802.3-2022)
+(mau, describedAs, "Medium Attachment Units. A device that is used to connect a repeater or data terminal equipment (DTE) to a transmission medium", ref:802.3-2022)
+(DTE, describedAs, "data terminal equipment, Any source or destination of data connected to the local area network", ref:802.3-2022)
